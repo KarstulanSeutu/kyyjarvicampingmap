@@ -1,6 +1,12 @@
 @font-face {
+   font-family: "SignPainter-HouseScript Semibold";
+   src: url("fonts/SignPainter-HouseScript Semibold.woff") format("woff"), url("fonts/SignPainter-HouseScript Semibold.eot") format("embedded-opentype"), url("fonts/SignPainter-HouseScript Semibold.ttf") format("truetype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
    font-family: "SignPainter-HouseScript";
-   src: url("fonts/SignPainter-HouseScript.woff") format("woff"), url("fonts/SignPainter-HouseScript.eot") format("embedded-opentype"), url("fonts/SignPainter-HouseScript.ttf") format("truetype");
-   font-weight: normal;
+   src: url("fonts/SignPainter-HouseScript Semibold.woff") format("woff"), url("fonts/SignPainter-HouseScript Semibold.eot") format("embedded-opentype"), url("fonts/SignPainter-HouseScript Semibold.ttf") format("truetype");
+   font-weight: bold;
    font-style: normal;
 }
